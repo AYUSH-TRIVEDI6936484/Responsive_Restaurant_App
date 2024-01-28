@@ -21,11 +21,13 @@ import sign from "../assets/sign.png";
 import quote from "../assets/quote.png";
 import gericht from "../assets/gericht.png";
 import trivedilogo from "../assets/trivedi-logo.png";
+import T from "../assets/T.jpg";
 
 export default {
   bg,
   chef,
   G,
+  T,
   gallery01,
   gallery02,
   gallery03,
